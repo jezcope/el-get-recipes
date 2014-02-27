@@ -1,0 +1,8 @@
+(:name mmm-mode
+       :description "Allow Multiple Major Modes in a buffer"
+       :type github
+       :pkgname "purcell/mmm-mode"
+       :build `(("./autogen.sh")
+                (,(format "EMACS=%s" el-get-emacs) "./configure")
+                ("make"))
+       :info "mmm.info")
