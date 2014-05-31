@@ -1,0 +1,7 @@
+(:name change-inner
+       :type github
+       :pkgname "magnars/change-inner.el"
+       :description "Emacs version of vim's ci and co commands"
+       :website "https://github.com/magnars/change-inner.el#readme"
+       :depends (expand-region)
+       :features change-inner)
