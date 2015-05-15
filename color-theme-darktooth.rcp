@@ -1,4 +1,4 @@
-(:name color-theme-zenburn
+(:name color-theme-darktooth
        :description "an Emacs 24 theme remixed from gruvbox"
        :website "https://github.com/emacsfodder/emacs-theme-darktooth"
        :minimum-emacs-version "24"
